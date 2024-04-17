@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+dependencies:
+  - mne
+  - pandas
+  - ipython
+  - brian2
+  - pip
